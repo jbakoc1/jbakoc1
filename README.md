@@ -15,7 +15,7 @@ I enjoy working with various technologies and exploring new tools to create amaz
 - **Web Development**: HTML, CSS, Angular
 - **Databases**: SQL, MongoDB
 - **Version Control**: Git, GitHub
-- **Testing**: JUnit
+- **Testing**: JUnit, Mockito
 - **DevOps**: Docker
 
 ## 📫 Contact
