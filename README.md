@@ -6,7 +6,7 @@ I enjoy working with various technologies and exploring new tools to create amaz
 ## 🔭 Current Work
 
 - I'm currently working on [ipto (Independent Power Transmission Operator) connection applications ](https://admie.marketsite.gr/welcome)
-- I'm also contributing to [Auctions b2b platform](https://auctions.marketsite.gr), where I'm implementing the next version for real time auctions.
+- I'm also contributing to [Auctions b2b platform](https://auctionsx.marketsite.gr/auctionjs/), where I'm implementing the next version for real time auctions.
 
 ## 🌱 Skills
 
